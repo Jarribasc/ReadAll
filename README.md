@@ -30,5 +30,7 @@ INDICE: LENGUAJE DE PROGRAMACIÓN OMNI.
             5 | FREDDY VEGA (CEO DE PLATZI) | -- | -- | -- |</p>    
 
             Creado por SPIN UP VALLEY S.L.
+            Con la colaboración de Arribas Vallespin Arquitectos S.L.P.
+            
             
 
