@@ -20,3 +20,4 @@ TEXTO 1111 - ESCRITO POR - CUANDO - DONDE - (META DATO)
 4 | FREDDY VEGA (NOMBRE DE PERSONA) | -- | -- | -- |
 5 | FREDDY VEGA (CEO DE PLATZI) | -- | -- | -- |
 
+Master 2
