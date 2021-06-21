@@ -19,6 +19,8 @@ INDICE: LENGUAJE DE PROGRAMACIÓN OMNI.
                 3... Donde se realiza la acción.
                 4... Cuando se realiza la acción.
                 5... Operadores lógicos. Y, o, etc.>i
+            
+            
            
             TEXTO 1111 - ESCRITO POR - CUANDO - DONDE - (META DATO)</h1>
              1 | FREDDY VEGA | CORRE CARRERAS | TIEMPO LIBRE | -- |</p> 
@@ -26,5 +28,7 @@ INDICE: LENGUAJE DE PROGRAMACIÓN OMNI.
              3 | FREDDY VEGA | HACE COSAS RARAS | TIEMPO LIBRE | -- |</p>    
              4 | FREDDY VEGA (NOMBRE DE PERSONA) | -- | -- | -- | </p>    
             5 | FREDDY VEGA (CEO DE PLATZI) | -- | -- | -- |</p>    
+
+            Creado por SPIN UP VALLEY S.L.
             
 
